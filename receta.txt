@@ -37,7 +37,7 @@
         <li>8 tortillas</li>
         <li>1 cebolla morada</li>
         <li>1 tomate</li>
-        <li>1 aguacate</li>
+        <li>1 palta</li>
         <li>1 cucharadita de comino</li>
         <li>1 cucharadita de paprika</li>
         <li>Sal y pimienta al gusto</li>
@@ -49,7 +49,7 @@
       <ol>
         <li>Corta el pollo en tiras finas y sazónalo con sal, pimienta, comino y paprika.</li>
         <li>Calienta una sartén y cocina el pollo durante 8 a 10 minutos hasta dorarlo.</li>
-        <li>Filetea la cebolla, el tomate y el aguacate; mezcla todo con un poco de limón y cilantro.</li>
+        <li>Filetea la cebolla, el tomate y la palta; mezcla todo con un poco de limón y cilantro.</li>
         <li>Calienta las tortillas y rellénalas con el pollo.</li>
         <li>Agrega la ensalada de cebolla y tomate y sirve con salsa al gusto.</li>
       </ol>
