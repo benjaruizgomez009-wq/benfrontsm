@@ -1,13 +1,8 @@
-body {background-color: lightblue;   
-}
-h1 {color:#a8431d;
-    background-color: yellow;
-    text-decoration: underline;
-}
-.verde {color:green;
+h1 {color: red;}
+.azul {color: blue;
+      background-color: lightblue;
       text-decoration: underline;}
-.azul {color:blue;
-      text-decoration: underline;}
-li {color:black;}
 
-      
+.verde {color: green;}
+
+
