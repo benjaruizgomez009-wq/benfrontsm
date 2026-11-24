@@ -1,8 +1,27 @@
-h1 {color: red;}
+h1 {color: black;}
 .azul {color: blue;
       background-color: lightblue;
       text-decoration: underline;}
 
 .verde {color: green;}
 
+h1:hover { color: red;
+      background-color: white;}
 
+      header { background-color: green;}
+
+      header {display: flex;
+      justify-content: space-around;
+      align-items: center;}
+
+      header {display: flex;
+      }
+
+      .redes {width: 80px;
+      height: 80px;}
+
+.logo {border-radius: 40%;}
+
+footer {display: flex;
+      justify-content: space-around;
+      align-items: center;}
